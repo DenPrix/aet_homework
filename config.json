@@ -1,0 +1,8 @@
+{
+  "Host" : "localhost",
+  "Port" : 8181,
+  "Username" : "root",
+  "Password" : "password",
+  "Database" : "contactsdb",
+  "Endpoint" : "contacts"
+}
